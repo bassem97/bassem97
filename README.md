@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 ![This is an image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![This is an image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=whit)
 ![This is an image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![This is an image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## ⭐ **Top Languages**
 
