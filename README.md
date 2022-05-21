@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bassemjadoui1996@gmail.com
 
 ⭐ GitHub Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bassem97&show_icons=true&theme=radical)
 
 🏆 Github Profile Trophy
+
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=bassem97&theme=radical)
 
 
