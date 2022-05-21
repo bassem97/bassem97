@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,springboot,html,css,ts,python,java,c#,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,html,css,ts,python,java,c#,php)](https://skillicons.dev)
 
 ![This is an image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![This is an image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
