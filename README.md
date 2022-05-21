@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=bassem97&theme=radical&row=1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassem97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassem97&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
