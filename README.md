@@ -1,4 +1,4 @@
-## Hi there, here's a meme before we get started
+## 👋 Hi there, here's a meme before we get started
 <img  src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <!--
