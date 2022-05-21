@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- - 🔭 I’m currently working on creating custom annotations in spring framework & Intellij plugins
+- 🔭 I’m currently working on creating custom annotations in spring framework & Intellij plugins
 - 🌱 I’m currently learning Flask, ReactJS
 - 👯 I’m looking to collaborate on springboot open source projects.
 - 🤔 I’m looking for help with spring framework.
