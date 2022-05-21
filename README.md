@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about spring, angular
 - 📫 How to reach me: bassemjadoui1996@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?bassem97=anuraghazra&show_icons=true&theme=radical)
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
+
+
