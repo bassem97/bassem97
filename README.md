@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2>⚡️ A Few Quick Facts</h2>
+
 - 🔭 I’m currently working on creating custom annotations in spring framework & Intellij plugins.
 - 🌱 I’m currently learning Flask, ReactJS.
 - 👯 I’m looking to collaborate on springboot open source projects.
@@ -30,7 +32,7 @@ Here are some ideas to get you started:
 
 
 
-## 💻 Skills
+<h2>🚀 Some Tools I Use</h2>
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,styledcomponents,tailwind,nodejs,expressjs,angular,spring,flask,react,redux,laravel,dotnet,mongodb,mysql,postgres,graphql,discord,linux,git,github,gitlab,idea,jenkins,kubernetes,vim,regex,stackoverflow)](https://skillicons.dev)
 
 ## ⭐ **Top Languages**
