@@ -22,18 +22,7 @@ Here are some ideas to get you started:
 
 
 ## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,angular,flask,react,html,css,ts,python,java,linux,Spring,Django,Symfony,laravel)](https://skillicons.dev)
-
-![This is an image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![This is an image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![This is an image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![This is an image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![This is an image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![This is an image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![This is an image](https://img.shields.io/badge/Symfony-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![This is an image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![This is an image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=whit)
-![This is an image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,styledcomponents,tailwind,nodejs,expressjs,angular,spring,flask,react,redux,Symfony,laravel,dotnet,mongodb,mysql,postgres,graphql,discord,linux,git,github,gitlab,idea,jenkins,kubernetes,vim)](https://skillicons.dev)
 
 ## ⭐ **Top Languages**
 
