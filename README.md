@@ -1,5 +1,5 @@
 ### 👋 Hi there, here's a meme before we get started
-<img width="600px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img height="500px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <!--
 **bassem97/bassem97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
