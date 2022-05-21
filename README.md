@@ -1,4 +1,4 @@
-## 👋 Hi there, here's a meme before we get started
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, here's a meme before we get started
 <img height="500px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <!--
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,styledcomponents,tailwind,nodejs,expressjs,angular,spring,flask,react,redux,laravel,dotnet,mongodb,mysql,postgres,graphql,discord,linux,git,github,gitlab,idea,jenkins,kubernetes,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,styledcomponents,tailwind,nodejs,expressjs,angular,spring,flask,react,redux,laravel,dotnet,mongodb,mysql,postgres,graphql,discord,linux,git,github,gitlab,idea,jenkins,kubernetes,vim,regex,stackoverflow)](https://skillicons.dev)
 
 ## ⭐ **Top Languages**
 
