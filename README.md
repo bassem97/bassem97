@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 🏆 **Github Profile Trophy**
 
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=bassem97&theme=radical)
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=bassem97&theme=radical&row=1)
 
 
