@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,styledcomponents,tailwind,nodejs,expressjs,angular,spring,flask,react,redux,Symfony,laravel,dotnet,mongodb,mysql,postgres,graphql,discord,linux,git,github,gitlab,idea,jenkins,kubernetes,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,styledcomponents,tailwind,nodejs,expressjs,angular,spring,flask,react,redux,symfony,laravel,dotnet,mongodb,mysql,postgres,graphql,discord,linux,git,github,gitlab,idea,jenkins,kubernetes,vim)](https://skillicons.dev)
 
 ## ⭐ **Top Languages**
 
