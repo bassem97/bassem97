@@ -4,9 +4,9 @@
 </h1>
 
 
-<p align="center">
+<!-- <p align="center">
   <img  height="350px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-</p>
+</p> -->
 
 <!--
 **bassem97/bassem97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
