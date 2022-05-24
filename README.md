@@ -1,6 +1,7 @@
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-  <strong> Hi there, here's a meme before we get started.</strong>
+ <strong> Hi there</strong>
+ <strong> Hi there, here's a meme before we get started.</strong>
 </h1>
 
 
