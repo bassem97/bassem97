@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 ## 🏆 **Github Profile Trophy**
 
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=bassem97&theme=radical&row=1&column=10)
+(https://github-readme-streak-stats.herokuapp.com/?user=bassem97&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44)
 
 
 
