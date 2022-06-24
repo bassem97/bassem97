@@ -1,12 +1,14 @@
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
- <strong> Hi there, here's a meme before we get started.</strong>
+ <strong> Hi there</strong>
+<!--   <strong> Hi there, here's a meme before we get started.</strong> -->
+
 </h1>
 
 
-<p align="center">
+<!-- <p align="center">
   <img  height="350px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-</p>
+</p> -->
 
 <!--
 **bassem97/bassem97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
