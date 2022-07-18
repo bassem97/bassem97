@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <h2>⚡️ A Few Quick Facts</h2>
 
-- 🔭 I’m currently working on creating custom annotations in spring framework & Intellij plugins.
+- 🔭 I’m currently working as a fullStack developer.
 - 🌱 I’m currently learning Flask, ReactJS.
 - 👯 I’m looking to collaborate on springboot open source projects.
 - 🤔 I’m looking for help with spring framework.
-- 💬 Ask me about spring, angular, git, java.
+- 💬 Ask me about spring, angular, nodejs, reactJS, git, java.
 - 📫 How to reach me: bassemjadoui1996@gmail.com.
 
 <p>
@@ -50,3 +50,4 @@ Here are some ideas to get you started:
 ## 🏆 **Github Profile Trophy**
 
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=bassem97&theme=radical&row=1&column=10)
+
