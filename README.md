@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 
 ## ⭐ **Top Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassem97&theme=radical&layout=compact)
+##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassem97&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassem97&theme=radical)
+
 
 ## 📊 **GitHub Stats**
 
