@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h2>⚡️ A Few Quick Facts</h2>
 
 - 🔭 I’m currently working as a fullStack developer.
-- 🌱 I’m currently learning Flask, ReactJS.
+- 🌱 I’m currently learning Angular CLI, Springboot, Django, Flask, ReactJS, NodeJS & NextJS.
 - 👯 I’m looking to collaborate on springboot open source projects.
 - 🤔 I’m looking for help with spring framework.
 - 💬 Ask me about spring, angular, nodejs, reactJS, git, java.
