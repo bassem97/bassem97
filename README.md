@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about spring, angular, nodejs, reactJS, git, java.
 - 📫 How to reach me: bassem.jadoui@esprit.tn
 
-<p>
-  <a target="_blank" href="https://www.twitter.com/jadoui_bassem"><img  src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"         height=25></a> <a target="_blank" href="https://www.linkedin.com/in/bassem-jadoui-85b6b9199"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-             badge&logo=linkedin&logoColor=white" height=25></a> <a target="_blank"  href="https://www.instagram.com/bassem_jd/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?     &style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://dev.to/bassem97"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?     &style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-</p>
+
 
 
 
