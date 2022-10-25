@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 🙌 Teamwork & Communication <br/>
 📊 Analytical thinking <br/>
 🚨 Critical thinking <br/>
-🙋‍♂️ Autonomous
+🙋‍♂️ Autonomous <br/>
 🕺 & More to discover ...
 
 
