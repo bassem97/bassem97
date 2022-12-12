@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bassem97&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=bassem97&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44)
 <a href="http://www.github.com/bassem97"><img src="https://activity-graph.herokuapp.com/graph?username=bassem97&theme=radical&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bassem97&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 **Github Profile Trophy**
 
