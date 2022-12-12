@@ -47,16 +47,15 @@ Here are some ideas to get you started:
 
 ## ⭐ **Top Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassem97&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassem97&theme=react&border_radius=30)
 <!-- ##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassem97&theme=radical&layout=compact) -->
 
 
 ## 📊 **GitHub Stats**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bassem97&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=bassem97&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44)
-<a href="http://www.github.com/bassem97"><img src="https://activity-graph.herokuapp.com/graph?username=bassem97&theme=radical&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bassem97&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bassem97&show_icons=true&theme=react&border_radius=30)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bassem97&theme=react&border_radius=30&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bassem97&theme=react&border_radius=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 **Github Profile Trophy**
 
