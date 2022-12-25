@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 🧠 Thoughtful & Inclusive Development <br/>
 🖤 Authentic Expression <br/>
-💡 Mindset of Learning & Curiosity <br/>
+💡 Mindset of Learning ,Curiosity & Digging up <br/>
 🙌 Teamwork & Communication <br/>
 📊 Analytical thinking <br/>
 🚨 Critical thinking <br/>
