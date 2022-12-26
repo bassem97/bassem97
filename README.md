@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 📊 Analytical thinking <br/>
 🚨 Critical thinking <br/>
 🙋‍♂️ Autonomous <br/>
-🕺 & More to discover ...
+<!-- 🕺 & More to discover ... -->
 
 
 
