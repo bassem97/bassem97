@@ -1,9 +1,9 @@
  
  <h1 align="center">
  
- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
  <strong> 
-  <h1> Hi there 🦋 </h1>
+  
+  <h1>   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px"> Hi there 😁 </h1>
   <h2> Here's a meme before we get started </h2>
  </strong> <br>
  <div> <img height="500px" src='http://139.144.77.225/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> <div>
