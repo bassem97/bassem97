@@ -4,8 +4,8 @@
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
  <strong> Hi there 🦋</strong> <br>
  <strong> here's a meme before we get started </strong>
- 
- <img height="500px" src='https://139.144.77.225/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+ <br>
+ <img height="500px" src='http://139.144.77.225/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </h1>
 
 
