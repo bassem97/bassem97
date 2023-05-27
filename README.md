@@ -5,7 +5,7 @@
  <strong> Hi there 🦋</strong> <br>
  <strong> here's a meme before we get started </strong>
  
- <img height="500px" src='https://http://139.144.77.225' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+ <img height="500px" src='https://http://139.144.77.225/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </h1>
 
 
