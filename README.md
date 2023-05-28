@@ -56,7 +56,7 @@
 ## 📊 **GitHub Stats**
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bassem97&show_icons=true&theme=react)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bassem97&theme=react&border_radius=30&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bassem97&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bassem97&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bassem97&theme=react&border_radius=30)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
