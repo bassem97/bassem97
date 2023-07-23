@@ -5,9 +5,10 @@
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px"> Hi there 😁 
    </h1>
    <h2> Here's a meme before we get started </h2>
-   <div> <img height="500px" src='http://dev-memer.info' title="consider making a star on our repo please https://github.com/bassem97/dev-memer" alt="Please refresh the page if the meme doesn't show up." > <div>
-   <div> refresh to get a new meme </div>
+<!--    <div> <img height="500px" src='http://dev-memer.info' title="consider making a star on our repo please https://github.com/bassem97/dev-memer" alt="Please refresh the page if the meme doesn't show up." > <div>
+   <div> refresh to get a new meme </div> -->
 
+![1687265080825__FB_IMG_1685996459105](https://github.com/bassem97/bassem97/assets/36534106/0dbe12a9-7b44-4e89-9e91-1966ebca7f65)
 
   </strong>
     
