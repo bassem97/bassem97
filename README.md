@@ -23,10 +23,9 @@
 
 🧠 Thoughtful & Inclusive Development <br/>
 🖤 Authentic Expression <br/>
-💡 Mindset of Learning ,Curiosity & Digging up <br/>
+💡 Mindset of Continous learning ,Curiosity & Digging up <br/>
 🙌 Teamwork & Communication <br/>
-📊 Analytical thinking <br/>
-🚨 Critical thinking <br/>
+📊 Analytical & Critical sophist <br/>
 🙋‍♂️ Autonomous <br/>
 🕺 & More to discover ...
 
