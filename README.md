@@ -42,7 +42,7 @@
    - Since then, I have been proficient in many technologies:
  
  
-   ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,angular,vuejs,reactivex,nextjs,webpack,spring,maven,hibernate,flask,django,react,redux,laravel,vite,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,discord,linux,git,github,githubactions,gitlab,androidstudio,idea,postman,prometheus,grafana,jenkins,kubernetes,docker,heroku,supabase,vercel,nginx,cloudflare,vim,regex,stackoverflow,figma,prisma,apollo,gcp,jest,md,rollupjs)
+   ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,angular,vuejs,reactivex,nextjs,webpack,spring,maven,hibernate,flask,django,react,redux,laravel,vite,symfony,dotnet,mongodb,mysql,sqlite,postgres,graphql,linux,git,github,githubactions,gitlab,androidstudio,idea,postman,prometheus,grafana,jenkins,kubernetes,docker,heroku,supabase,vercel,nginx,cloudflare,vim,regex,stackoverflow,figma,prisma,apollo,gcp,jest,md,rollupjs)
 </details>
 
 
