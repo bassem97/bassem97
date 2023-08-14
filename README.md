@@ -55,3 +55,7 @@
 
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=bassem97&theme=radical&row=1&column=10)
 
+<p align="center">
+  <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
+</p>
+
