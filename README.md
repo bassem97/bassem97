@@ -10,8 +10,6 @@
    <h4> Here's a meme before we get started </h4>
   <div> <img height="500px" src='http://dev-memer.info' title="consider making a star on our repo please https://github.com/bassem97/dev-memer" alt="Please refresh the page if the meme doesn't show up." > <div>
    <h6> refresh to get a new meme </h6> 
-
-
   </strong>
   </h1>
 
