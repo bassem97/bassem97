@@ -7,7 +7,7 @@
    <p align="center">
       <h4> Visitors :</h4> <img src="https://visitor-count-b8lb.vercel.app/api/bassem97?hexColor=5ed4f3" />
    </p>
-   <h2> Here's a meme before we get started </h2>
+   <h4> Here's a meme before we get started </h4>
   <div> <img height="500px" src='http://dev-memer.info' title="consider making a star on our repo please https://github.com/bassem97/dev-memer" alt="Please refresh the page if the meme doesn't show up." > <div>
    <h6> refresh to get a new meme </h6> 
 
