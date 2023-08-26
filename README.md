@@ -13,14 +13,14 @@
   </strong>
   </h1>
 
-<details closed>
+<details open>
  <summary> <h2> 🙆 Socials : </h2> </summary>
 
 <p align="left"> <a href="https://www.dev.to/bassem97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/NoobSlayer#1667" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/bassem.jadoui/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/bassem97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bassem_jd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bassem-jadoui-85b6b9199" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@bassemjadoui1996" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/10659589/bassem-jadoui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jadoui_bassem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 </details>
 
-<details closed>
+<details open>
    <summary>   <h2> 💎 My Values  : </h2> </summary>
   
   🧠 Thoughtful & Inclusive Development <br/>
@@ -32,7 +32,7 @@
   🕺 & More to discover ...
 </details>
 
-<details closed>
+<details open>
    <summary> <h2>🚀 Some Tools I Use : </h2> </summary>
  
    - 4 years ago, I ate a [Devil Fruit](https://onepiece.fandom.com/wiki/Devil_Fruit "Devil Fruits are mysterious, distinctive fruits scattered throughout the world, known for granting their eaters permanent superhuman powers and an equally permanent inability to swim.") (Devu Devu no Mi) and it turned me into a Full-Stack Engineer.
