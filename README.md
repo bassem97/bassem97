@@ -46,7 +46,7 @@
 <details open>
   <summary> <h2>📊 GitHub Stats : </h2></summary>
 <a href='https://git.io/streak-stats' align="center" width="100%">
-    <img style='width:100%;' src='https://streak-stats.demolab.com?user=bassem97&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=8AD7F9&sideLabels=8AD7F9&background=FFFFFF00&ring=8AD7F9&fire=EA0D01&currStreakNum=EA0D01&sideNums=8AD7F9&currStreakLabel=8AD7F9&dates=888888' />
+    <img style='width:100%;' src='https://streak-stats.demolab.com?user=bassem97&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=8AD7F9&sideLabels=8AD7F9&background=FFFFFF00&ring=8AD7F9&fire=EA0D01&currStreakNum=EA0D01&sideNums=8AD7F9&currStreakLabel=8AD7F9' />
 </a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
     <img style='width:60%;' src='https://github-readme-stats-kohl-one.vercel.app/api?username=bassem97&show_icons=true&count_private=true&title_color=8AD7F9&text_color=888888&icon_color=8AD7F9&bg_color=0d111700&cache_seconds=7200&hide_border=true' />
 </a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
