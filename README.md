@@ -37,7 +37,7 @@
 <details open>
    <summary> <h2>🚀 Some Tools I Use : </h2> </summary>
  
-   - 4 years ago, I ate a [Devil Fruit](https://onepiece.fandom.com/wiki/Devil_Fruit "Devil Fruits are mysterious, distinctive fruits scattered throughout the world, known for granting their eaters permanent superhuman powers and an equally permanent inability to swim.") (Devu Devu no Mi) and it turned me into a Full-Stack Engineer.
+   - 4 years ago, I ate a [Devil Fruit](https://onepiece.fandom.com/wiki/Devil_Fruit "Devil Fruits are mysterious, distinctive fruits scattered throughout the world, known for granting their eaters permanent superhuman powers and an equally permanent inability to swim.") and it turned me into a Full-Stack Engineer.
    - Since then, I have been proficient in many technologies:
  
  
