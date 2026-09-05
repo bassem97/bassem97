@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4a63,100:8AD7F9&height=200&section=header&text=Bassem%20Jadoui&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Co-Founder%20and%20CTO%20%40%20SyntaxEror&descAlignY=58&descSize=18" alt="Bassem Jadoui" />
+<img width="100%" src="./assets/banner.svg" alt="Bassem Jadoui — Co-Founder and CTO at SyntaxEror" />
 
 <p align="center">
   <a href="https://github.com/bassem97">
