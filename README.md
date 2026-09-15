@@ -53,12 +53,12 @@
     <img width="58%" src='https://github-readme-stats-eight-sigma-35.vercel.app/api?username=bassem97&show_icons=true&count_private=true&title_color=8AD7F9&text_color=888888&icon_color=8AD7F9&bg_color=0d111700&cache_seconds=7200&hide_border=true&rank_icon=percentile&include_all_commits=false&show=reviews,prs_merged_percentage' />
 </a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
     <img width="38%" src='https://github-readme-stats-eight-sigma-35.vercel.app/api/top-langs/?username=bassem97&layout=compact&show_icons=true&count_private=true&langs_count=10&title_color=8AD7F9&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true' />
-</a><a href='https://github-readme-activity-graph.vercel.app/graph?username=bassem97&theme=react' align="center" width="100%">
-    <img width="100%" src='https://github-readme-activity-graph.vercel.app/graph?username=bassem97&layout=compact&theme=react&bg_color=0d111700&cache_seconds=7200&hide_border=true' />
+</a><a href='https://github-readme-activity-graph-theta-three.vercel.app/graph?username=bassem97&theme=react' align="center" width="100%">
+    <img width="100%" src='https://github-readme-activity-graph-theta-three.vercel.app/graph?username=bassem97&layout=compact&theme=react&bg_color=0d111700&cache_seconds=7200&hide_border=true' />
 </a>
 
 </details>
 
 <p align="center">
-  <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
+  <img src="https://github-readme-quotes-roan.vercel.app/api?type=horizontal&theme=github" />
 </p>
