@@ -70,12 +70,14 @@ const bassem = {
   <img width="100%" src="https://github-readme-activity-graph-theta-three.vercel.app/graph?username=bassem97&layout=compact&theme=react&bg_color=0d111700&cache_seconds=7200&hide_border=true" alt="Activity graph" />
 </p>
 
+<!-- Snake hidden until GitHub Actions runs again (billing lock). Remove this comment wrapper and run the "Generate contribution snake" workflow.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bassem97/bassem97/output/github-snake-dark.svg" />
     <img width="100%" src="https://raw.githubusercontent.com/bassem97/bassem97/output/github-snake.svg" alt="Contribution snake" />
   </picture>
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-quotes-roan.vercel.app/api?type=horizontal&theme=github" alt="Quote" />
